@@ -1,4 +1,24 @@
 %this was MetadataEval_19March2013.rnw
+%
+%%
+% These objects needed in your workspace, they are all generated in an earlier script
+% ElementNames
+% tss.summ
+% abbr
+% group
+% df.full
+% rf.full
+% OvAc.summ
+% specif.summ
+% sensit.summ
+% tss.summ
+% Kappa.unw.summ
+% auc.summ
+% rf.full.ctoff
+% cutval.rf
+% EnvVars
+%%
+
 \documentclass{article}
 \usepackage[utf8]{inputenc} 
 \usepackage{geometry}
